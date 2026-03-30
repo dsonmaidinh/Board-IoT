@@ -1,0 +1,52 @@
+Added Component: Designator=L3(LED-3MM-RED)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH003892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 3MM Ph? Ð? (10c)"; VariantName = "[No Variations]"
+Added Component: Designator=L4(LED-3MM-YELLOW)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH003893"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 3MM Ph? Vàng (10c)"; VariantName = "[No Variations]"
+Added Component: Designator=L5(LED-3MM-GREEN)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001054"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 3MM Ph? Xanh (10c)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=L3-1
+Added Pin To Net: NetName=5V Pin=L4-1
+Added Pin To Net: NetName=5V Pin=L5-1
+Added Pin To Net: NetName=NetL3_2 Pin=L3-2
+Added Pin To Net: NetName=NetL3_2 Pin=R3-2
+Added Net: Name=NetL3_2
+Added Pin To Net: NetName=NetL4_2 Pin=L4-2
+Added Pin To Net: NetName=NetL4_2 Pin=R4-2
+Added Net: Name=NetL4_2
+Added Pin To Net: NetName=NetL5_2 Pin=L5-2
+Added Pin To Net: NetName=NetL5_2 Pin=R5-2
+Added Net: Name=NetL5_2
+Added Member To Class: ClassName=Sche_CB Member=Component C1 10uF
+Added Member To Class: ClassName=Sche_CB Member=Component C2 104
+Added Member To Class: ClassName=Sche_CB Member=Component C3 10uF
+Added Member To Class: ClassName=Sche_CB Member=Component C4 104
+Added Member To Class: ClassName=Sche_CB Member=Component C5 104
+Added Member To Class: ClassName=Sche_CB Member=Component C6 104
+Added Member To Class: ClassName=Sche_CB Member=Component D1 100v
+Added Member To Class: ClassName=Sche_CB Member=Component JACK DC1 JACK DC 5.5
+Added Member To Class: ClassName=Sche_CB Member=Component L1 LED 3mm
+Added Member To Class: ClassName=Sche_CB Member=Component L3 LED 3mm
+Added Member To Class: ClassName=Sche_CB Member=Component L4 LED 3mm
+Added Member To Class: ClassName=Sche_CB Member=Component L5 LED 3mm
+Added Member To Class: ClassName=Sche_CB Member=Component L6 LED 5mm
+Added Member To Class: ClassName=Sche_CB Member=Component R1 1k
+Added Member To Class: ClassName=Sche_CB Member=Component R2 10k
+Added Member To Class: ClassName=Sche_CB Member=Component R3 4.7k
+Added Member To Class: ClassName=Sche_CB Member=Component R4 4.7k
+Added Member To Class: ClassName=Sche_CB Member=Component R5 4.7k
+Added Member To Class: ClassName=Sche_CB Member=Component R6 10k

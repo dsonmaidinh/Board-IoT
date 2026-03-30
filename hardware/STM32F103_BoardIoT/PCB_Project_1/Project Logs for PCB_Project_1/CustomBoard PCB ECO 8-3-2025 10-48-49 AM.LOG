@@ -1,0 +1,13 @@
+Change Component Comment : Designator=R3 Old Comment=4.7k New Comment=1k
+Change Component Comment : Designator=R4 Old Comment=4.7k New Comment=1k
+Change Component Comment : Designator=R5 Old Comment=4.7k New Comment=1k
+Added Component: Designator=P?(CON 2 2EDG5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000759"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 2EDG5.08-2P 5.08MM ( Xanh Cong)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_1 Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Member To Class: ClassName=Sche_CB Member=Component P? CON 2 EDG5.08

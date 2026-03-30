@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=JP2-1
+Added Pin To Net: NetName=GND Pin=JP2-20
+Added Member To Class: ClassName=Sche_CB Member=Component L3 LED 5mm

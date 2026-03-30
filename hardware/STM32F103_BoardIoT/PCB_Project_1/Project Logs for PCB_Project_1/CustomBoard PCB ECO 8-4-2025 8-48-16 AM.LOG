@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=5V Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=5V Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=3.3V Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=NetC7_1 Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Member From Class: ClassName=Sche_CB Member=C?
+Change Component Footprint: Designator=C1 Old Footprint=tu hoa 4mm New Footprint=CAPPRD200W50D500H1100
+Change Component Footprint: Designator=C2 Old Footprint=tu hoa 4mm New Footprint=CAPPRD200W50D500H1100
+Change Component Footprint: Designator=C3 Old Footprint=tu hoa 4mm New Footprint=CAPPRD200W50D500H1100
+Change Component Comment : Designator=C1 Old Comment=10uF New Comment=ECEA1EN100U
+Change Component Comment : Designator=C2 Old Comment=10uF New Comment=ECEA1EN100U
+Change Component Comment : Designator=C3 Old Comment=10uF New Comment=ECEA1EN100U
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change component parameters: Designator = "C1" ("C1"); Footprint = "tu hoa 4mm"; UniqueID = "\XJIKVNOA" ("\XJIKVNOA")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ECEA1EN100U/Panasonic/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ECEA1EN100U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ECEA1EN100U/Panasonic/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "tu hoa 4mm"; UniqueID = "\OBLTQFAQ" ("\OBLTQFAQ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ECEA1EN100U/Panasonic/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ECEA1EN100U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ECEA1EN100U/Panasonic/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "tu hoa 4mm"; UniqueID = "\NOUNTJYW" ("\NOUNTJYW")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ECEA1EN100U/Panasonic/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ECEA1EN100U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ECEA1EN100U/Panasonic/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-N
+Added Pin To Net: NetName=5V Pin=C1-P
+Added Pin To Net: NetName=GND Pin=C2-N
+Added Pin To Net: NetName=5V Pin=C2-P
+Added Pin To Net: NetName=GND Pin=C3-N
+Added Pin To Net: NetName=3.3V Pin=C3-P
+Added Pin To Net: NetName=GND Pin=C7-N
+Added Pin To Net: NetName=NetC7_1 Pin=C7-P
+Change Net Name : Old Net Name=NetC7_1 New Net Name=NetC7_P

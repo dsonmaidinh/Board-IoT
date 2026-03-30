@@ -1,0 +1,237 @@
+Change Component Designator: OldDesignator=AMS? NewDesignator=AMS1
+Change Component Designator: OldDesignator=AMS? NewDesignator=AMS2
+Change Component Designator: OldDesignator=AMS? NewDesignator=AMS3
+Change Component Designator: OldDesignator=AMS? NewDesignator=AMS4
+Change Component Designator: OldDesignator=BT? NewDesignator=BT1
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=F? NewDesignator=F1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=JACK DC? NewDesignator=JACK DC1
+Change Component Designator: OldDesignator=JACK DC? NewDesignator=JACK DC2
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1
+Change Component Designator: OldDesignator=JP? NewDesignator=JP2
+Change Component Designator: OldDesignator=JP? NewDesignator=JP3
+Change Component Designator: OldDesignator=JP? NewDesignator=JP4
+Change Component Designator: OldDesignator=JP? NewDesignator=JP5
+Change Component Designator: OldDesignator=JP? NewDesignator=JP6
+Change Component Designator: OldDesignator=JP? NewDesignator=JP7
+Change Component Designator: OldDesignator=JP? NewDesignator=JP8
+Change Component Designator: OldDesignator=JP? NewDesignator=JP9
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=L? NewDesignator=L2
+Change Component Designator: OldDesignator=L? NewDesignator=L3
+Change Component Designator: OldDesignator=L? NewDesignator=L4
+Change Component Designator: OldDesignator=L? NewDesignator=L5
+Change Component Designator: OldDesignator=L? NewDesignator=L6
+Change Component Designator: OldDesignator=L? NewDesignator=L7
+Change Component Designator: OldDesignator=L? NewDesignator=L8
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=STM? NewDesignator=STM1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=USB? NewDesignator=USB1
+Change Component Designator: OldDesignator=Y? NewDesignator=Y1
+Change Component Designator: OldDesignator=Y? NewDesignator=Y2
+Added Component: Designator=BT?(Nut Nhan 2 Chan SMD 3x6x2.5)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Nút Nh?n 2 Chân 3x6x2.5MM SMD"; VariantName = "[No Variations]"
+Added Component: Designator=BT?(Nut Nhan 2 Chan SMD 3x6x2.5)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Nút Nh?n 2 Chân 3x6x2.5MM SMD"; VariantName = "[No Variations]"
+Added Component: Designator=C?(tu gom)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004761"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 104 100nF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(tu gom)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004761"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 104 100nF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006349"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 1% 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006350"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 1% 4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006349"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 1% 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006350"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 1% 4.7k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BT?-1
+Added Pin To Net: NetName=GND Pin=BT?-1
+Added Pin To Net: NetName=5V Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=DCD Pin=JP5-1
+Added Pin To Net: NetName=RI Pin=JP5-2
+Added Pin To Net: NetName=DSR Pin=JP5-3
+Added Pin To Net: NetName=CTS Pin=JP5-4
+Added Pin To Net: NetName=5V Pin=L6-2
+Added Pin To Net: NetName=5V Pin=L7-2
+Added Pin To Net: NetName=5V Pin=L8-2
+Added Pin To Net: NetName=5V Pin=R?-2
+Added Pin To Net: NetName=5V Pin=R?-2
+Added Pin To Net: NetName=USB_P Pin=USB1-2
+Added Pin To Net: NetName=USB_N Pin=USB1-3
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=CH340_XT2 Pin=Y2-1
+Added Pin To Net: NetName=CH340_XT1 Pin=Y2-2
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetF?_1 New Net Name=NetF1_1
+Change Net Name : Old Net Name=NetIC?_3 New Net Name=NetIC1_3
+Change Net Name : Old Net Name=NetIC?_5 New Net Name=NetIC1_5
+Change Net Name : Old Net Name=NetIC?_6 New Net Name=NetIC1_6
+Change Net Name : Old Net Name=NetL?_1 New Net Name=NetL1_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR8_2
+Added Pin To Net: NetName=NetBT?_2 Pin=BT?-2
+Added Pin To Net: NetName=NetBT?_2 Pin=C?-1
+Added Pin To Net: NetName=NetBT?_2 Pin=R?-1
+Added Net: Name=NetBT?_2
+Add Net: Net with name "NetBT?_2" already exists
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=JACK DC2-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=R5-2
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetL5_1 Pin=L5-1
+Added Pin To Net: NetName=NetL5_1 Pin=R10-1
+Added Net: Name=NetL5_1
+Added Pin To Net: NetName=NetL6_1 Pin=L6-1
+Added Pin To Net: NetName=NetL6_1 Pin=R11-2
+Added Net: Name=NetL6_1
+Added Pin To Net: NetName=NetL7_1 Pin=L7-1
+Added Pin To Net: NetName=NetL7_1 Pin=R?-2
+Added Net: Name=NetL7_1
+Added Pin To Net: NetName=NetL8_1 Pin=L8-1
+Added Pin To Net: NetName=NetL8_1 Pin=R?-2
+Added Net: Name=NetL8_1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=U2-3
+Added Net: Name=NetR9_2
+Added Member To Class: ClassName=Sche_CB Member=Component AMS1 AMS1117-3.3V
+Added Member To Class: ClassName=Sche_CB Member=Component AMS2 AMS1117-5V
+Added Member To Class: ClassName=Sche_CB Member=Component AMS4 AMS1117-5V
+Added Member To Class: ClassName=Sche_CB Member=Component BT? Nut Nhan 2 Chan SMD 3x6x2.5
+Added Member To Class: ClassName=Sche_CB Member=Component BT? Nut Nhan 2 Chan SMD 3x6x2.5
+Added Member To Class: ClassName=Sche_CB Member=Component C1 47uF
+Added Member To Class: ClassName=Sche_CB Member=Component C2 22pF
+Added Member To Class: ClassName=Sche_CB Member=Component C3 104
+Added Member To Class: ClassName=Sche_CB Member=Component C4 104
+Added Member To Class: ClassName=Sche_CB Member=Component C5 104
+Added Member To Class: ClassName=Sche_CB Member=Component C6 47uF
+Added Member To Class: ClassName=Sche_CB Member=Component C7 22pF
+Added Member To Class: ClassName=Sche_CB Member=Component C8 104
+Added Member To Class: ClassName=Sche_CB Member=Component C9 104
+Added Member To Class: ClassName=Sche_CB Member=Component C10 104
+Added Member To Class: ClassName=Sche_CB Member=Component C11 22pF
+Added Member To Class: ClassName=Sche_CB Member=Component C12 22pF
+Added Member To Class: ClassName=Sche_CB Member=Component C13 22pF
+Added Member To Class: ClassName=Sche_CB Member=Component C14 104
+Added Member To Class: ClassName=Sche_CB Member=Component C15 104
+Added Member To Class: ClassName=Sche_CB Member=Component C16 47uF
+Added Member To Class: ClassName=Sche_CB Member=Component C17 22pF
+Added Member To Class: ClassName=Sche_CB Member=Component C18 104
+Added Member To Class: ClassName=Sche_CB Member=Component C19 104
+Added Member To Class: ClassName=Sche_CB Member=Component C20 104
+Added Member To Class: ClassName=Sche_CB Member=Component C21 47uF
+Added Member To Class: ClassName=Sche_CB Member=Component C? 104
+Added Member To Class: ClassName=Sche_CB Member=Component C? 104
+Added Member To Class: ClassName=Sche_CB Member=Component D1 M7
+Added Member To Class: ClassName=Sche_CB Member=Component F1 0.5A 125V
+Added Member To Class: ClassName=Sche_CB Member=Component JACK DC1 JACK DC 5.5
+Added Member To Class: ClassName=Sche_CB Member=Component JP1 JP 2x3 2.54
+Added Member To Class: ClassName=Sche_CB Member=Component JP2 JP 1x8 2.54
+Added Member To Class: ClassName=Sche_CB Member=Component JP3 JP 1x10 2.54
+Added Member To Class: ClassName=Sche_CB Member=Component JP4 JP 1x8 2.54
+Added Member To Class: ClassName=Sche_CB Member=Component JP5 JP 1x4 2.54
+Added Member To Class: ClassName=Sche_CB Member=Component JP6 JP 1x6 2.54
+Added Member To Class: ClassName=Sche_CB Member=Component JP7 JP 1x4 2.54
+Added Member To Class: ClassName=Sche_CB Member=Component JP8 JP 1x4 2.54
+Added Member To Class: ClassName=Sche_CB Member=Component JP9 JP 1x4 2.54
+Added Member To Class: ClassName=Sche_CB Member=Component L2 LED 0805
+Added Member To Class: ClassName=Sche_CB Member=Component L3 LED 0805
+Added Member To Class: ClassName=Sche_CB Member=Component L4 LED 0805
+Added Member To Class: ClassName=Sche_CB Member=Component L5 LED 0805
+Added Member To Class: ClassName=Sche_CB Member=Component L6 LED 3mm
+Added Member To Class: ClassName=Sche_CB Member=Component L7 LED 3mm
+Added Member To Class: ClassName=Sche_CB Member=Component L8 LED 3mm
+Added Member To Class: ClassName=Sche_CB Member=Component R1 1k
+Added Member To Class: ClassName=Sche_CB Member=Component R2 10k
+Added Member To Class: ClassName=Sche_CB Member=Component R3 1M
+Added Member To Class: ClassName=Sche_CB Member=Component R4 10k
+Added Member To Class: ClassName=Sche_CB Member=Component R5 1k
+Added Member To Class: ClassName=Sche_CB Member=Component R6 10k
+Added Member To Class: ClassName=Sche_CB Member=Component R7 1M
+Added Member To Class: ClassName=Sche_CB Member=Component R8 1k
+Added Member To Class: ClassName=Sche_CB Member=Component R9 1k
+Added Member To Class: ClassName=Sche_CB Member=Component R10 1k
+Added Member To Class: ClassName=Sche_CB Member=Component R11 4.7k
+Added Member To Class: ClassName=Sche_CB Member=Component R? 10k
+Added Member To Class: ClassName=Sche_CB Member=Component R? 4.7k
+Added Member To Class: ClassName=Sche_CB Member=Component R? 10k
+Added Member To Class: ClassName=Sche_CB Member=Component R? 4.7k
+Added Member To Class: ClassName=Sche_CB Member=Component U1 ATMEGA168-20AU
+Added Member To Class: ClassName=Sche_CB Member=Component U2 CH340C
+Added Member To Class: ClassName=Sche_CB Member=Component USB1 USB Micro 5p SMD
+Added Member To Class: ClassName=Sche_CB Member=Component Y1 16Mhz
+Added Member To Class: ClassName=Sche_CB Member=Component Y2 16Mhz

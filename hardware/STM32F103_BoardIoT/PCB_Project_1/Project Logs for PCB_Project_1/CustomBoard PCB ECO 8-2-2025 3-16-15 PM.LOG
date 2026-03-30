@@ -1,0 +1,174 @@
+Removed Pin From Net: NetName=5V Pin=C?-1
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=C?-2
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=VBUS Pin=F?-2
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=DCD Pin=JP?-1
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=RI Pin=JP?-2
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=DSR Pin=JP?-3
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=CTS Pin=JP?-4
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Unknown Pin: Pin JP?-5
+Remove Pin from Net: Unknown Pin: Pin JP?-5
+Remove Pin from Net: Unknown Pin: Pin JP?-5
+Remove Pin from Net: Unknown Pin: Pin JP?-5
+Remove Pin from Net: Unknown Pin: Pin JP?-6
+Remove Pin from Net: Unknown Pin: Pin JP?-6
+Remove Pin from Net: Unknown Pin: Pin JP?-6
+Remove Pin from Net: Unknown Pin: Pin JP?-6
+Remove Pin from Net: Unknown Pin: Pin JP?-7
+Remove Pin from Net: Unknown Pin: Pin JP?-7
+Remove Pin from Net: Unknown Pin: Pin JP?-7
+Remove Pin from Net: Unknown Pin: Pin JP?-8
+Remove Pin from Net: Unknown Pin: Pin JP?-8
+Remove Pin from Net: Unknown Pin: Pin JP?-8
+Remove Pin from Net: Unknown Pin: Pin JP?-9
+Remove Pin from Net: Unknown Pin: Pin JP?-10
+Removed Pin From Net: NetName=IO0/RXD Pin=L?-1
+Removed Pin From Net: NetName=IO1/TXD Pin=L?-1
+Removed Pin From Net: NetName=5V Pin=L?-2
+Removed Pin From Net: NetName=5V Pin=L?-2
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=IO0/RXD Pin=R?-1
+Removed Pin From Net: NetName=IO1/TXD Pin=R?-1
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=USB_P Pin=USB?-2
+Removed Pin From Net: NetName=USB_N Pin=USB?-3
+Removed Pin From Net: NetName=GND Pin=USB?-5
+Removed Pin From Net: NetName=GND Pin=USB?-5
+Removed Pin From Net: NetName=GND Pin=USB?-5
+Removed Pin From Net: NetName=CH340_XT2 Pin=Y?-1
+Removed Pin From Net: NetName=CH340_XT1 Pin=Y?-2
+Removed Member From Class: ClassName=Sche_CB Member=ESP?
+Change Component Footprint: Designator=L? Old Footprint=LED-0805-Red New Footprint=LED-3MM-RED
+Change Component Footprint: Designator=L? Old Footprint=LED-0805-Red New Footprint=LED-3MM-YELLOW
+Change Component Footprint: Designator=R? Old Footprint=tro smd 0805 New Footprint=tro vach 1/4w
+Change Component Comment : Designator=R? Old Comment=1k New Comment=4.7k
+Change Component Comment : Designator=L? Old Comment=LED 0805 New Comment=LED 3mm
+Change Component Comment : Designator=L? Old Comment=LED 0805 New Comment=LED 3mm
+Change component parameters: Designator = "L?" ("L?"); Footprint = "LED-0805-Red"; UniqueID = "\UFATQEBL" ("\UFATQEBL")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH003892"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 3MM Ph? Ð? (10c)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L?" ("L?"); Footprint = "LED-0805-Red"; UniqueID = "\OGCHYAJW" ("\OGCHYAJW")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH003893"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 3MM Ph? Vàng (10c)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R?" ("R?"); Footprint = "tro smd 0805"; UniqueID = "\YUBBZNVC" ("\YUBBZNVC")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH006350"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 1% 4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=L?(LED-3MM-GREEN)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001054"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 3MM Ph? Xanh (10c)"; VariantName = "[No Variations]"
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetL?_1" already exists
+Add Net: Net with name "NetL?_1" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Member To Class: ClassName=Sche_CB Member=Component AMS? AMS1117-5V
+Added Member To Class: ClassName=Sche_CB Member=Component AMS? AMS1117-5V
+Added Member To Class: ClassName=Sche_CB Member=Component AMS? AMS1117-3.3V
+Added Member To Class: ClassName=Sche_CB Member=Component C? 22pF
+Added Member To Class: ClassName=Sche_CB Member=Component C? 104
+Added Member To Class: ClassName=Sche_CB Member=Component C? 22pF
+Added Member To Class: ClassName=Sche_CB Member=Component C? 104
+Added Member To Class: ClassName=Sche_CB Member=Component C? 47uF
+Added Member To Class: ClassName=Sche_CB Member=Component C? 104
+Added Member To Class: ClassName=Sche_CB Member=Component C? 104
+Added Member To Class: ClassName=Sche_CB Member=Component C? 22pF
+Added Member To Class: ClassName=Sche_CB Member=Component C? 104
+Added Member To Class: ClassName=Sche_CB Member=Component C? 104
+Added Member To Class: ClassName=Sche_CB Member=Component C? 47uF
+Added Member To Class: ClassName=Sche_CB Member=Component C? 22pF
+Added Member To Class: ClassName=Sche_CB Member=Component C? 104
+Added Member To Class: ClassName=Sche_CB Member=Component C? 104
+Added Member To Class: ClassName=Sche_CB Member=Component C? 47uF
+Added Member To Class: ClassName=Sche_CB Member=Component C? 104
+Added Member To Class: ClassName=Sche_CB Member=Component C? 47uF
+Added Member To Class: ClassName=Sche_CB Member=Component C? 22pF
+Added Member To Class: ClassName=Sche_CB Member=Component C? 104
+Added Member To Class: ClassName=Sche_CB Member=Component C? 22pF
+Added Member To Class: ClassName=Sche_CB Member=Component D? M7
+Added Member To Class: ClassName=Sche_CB Member=Component JACK DC? JACK DC 5.5
+Added Member To Class: ClassName=Sche_CB Member=Component JP? JP 1x4 2.54
+Added Member To Class: ClassName=Sche_CB Member=Component JP? JP 1x4 2.54
+Added Member To Class: ClassName=Sche_CB Member=Component JP? JP 1x8 2.54
+Added Member To Class: ClassName=Sche_CB Member=Component JP? JP 1x4 2.54
+Added Member To Class: ClassName=Sche_CB Member=Component JP? JP 1x10 2.54
+Added Member To Class: ClassName=Sche_CB Member=Component JP? JP 1x8 2.54
+Added Member To Class: ClassName=Sche_CB Member=Component JP? JP 2x3 2.54
+Added Member To Class: ClassName=Sche_CB Member=Component JP? JP 1x6 2.54
+Added Member To Class: ClassName=Sche_CB Member=Component L? LED 3mm
+Added Member To Class: ClassName=Sche_CB Member=Component L? LED 0805
+Added Member To Class: ClassName=Sche_CB Member=Component L? LED 0805
+Added Member To Class: ClassName=Sche_CB Member=Component L? LED 0805
+Added Member To Class: ClassName=Sche_CB Member=Component L? LED 3mm
+Added Member To Class: ClassName=Sche_CB Member=Component L? LED 3mm
+Added Member To Class: ClassName=Sche_CB Member=Component L? LED 0805
+Added Member To Class: ClassName=Sche_CB Member=Component R? 1k
+Added Member To Class: ClassName=Sche_CB Member=Component R? 1M
+Added Member To Class: ClassName=Sche_CB Member=Component R? 10k
+Added Member To Class: ClassName=Sche_CB Member=Component R? 1M
+Added Member To Class: ClassName=Sche_CB Member=Component R? 4.7k
+Added Member To Class: ClassName=Sche_CB Member=Component R? 1k
+Added Member To Class: ClassName=Sche_CB Member=Component R? 1k
+Added Member To Class: ClassName=Sche_CB Member=Component R? 10k
+Added Member To Class: ClassName=Sche_CB Member=Component R? 1k
+Added Member To Class: ClassName=Sche_CB Member=Component R? 10k
+Added Member To Class: ClassName=Sche_CB Member=Component U? ATMEGA168-20AU
+Added Member To Class: ClassName=Sche_CB Member=Component Y? 16Mhz

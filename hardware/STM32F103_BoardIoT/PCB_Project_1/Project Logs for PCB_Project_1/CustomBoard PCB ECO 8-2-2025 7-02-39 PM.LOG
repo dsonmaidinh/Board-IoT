@@ -1,0 +1,282 @@
+Removed Pin From Net: NetName=GND Pin=AMS1-1
+Removed Pin From Net: NetName=5V Pin=AMS1-3
+Removed Pin From Net: NetName=GND Pin=AMS2-1
+Removed Pin From Net: NetName=5V Pin=AMS2-2
+Removed Pin From Net: NetName=5V Pin=AMS2-4
+Removed Pin From Net: NetName=GND Pin=AMS3-1
+Removed Pin From Net: NetName=5V Pin=AMS3-3
+Removed Pin From Net: NetName=GND Pin=AMS4-1
+Removed Pin From Net: NetName=5V Pin=AMS4-2
+Removed Pin From Net: NetName=5V Pin=AMS4-4
+Removed Pin From Net: NetName=GND Pin=BT1-1
+Removed Pin From Net: NetName=GND Pin=BT?-1
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=5V Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=5V Pin=C2-2
+Removed Pin From Net: NetName=5V Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=5V Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=5V Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=5V Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=5V Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=5V Pin=C17-2
+Removed Pin From Net: NetName=5V Pin=C18-1
+Removed Pin From Net: NetName=5V Pin=C19-1
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=IC1-4
+Removed Pin From Net: NetName=5V Pin=IC1-8
+Removed Pin From Net: NetName=GND Pin=JACK DC1-1
+Removed Pin From Net: NetName=GND Pin=JACK DC1-3
+Removed Pin From Net: NetName=GND Pin=JP1-4
+Removed Pin From Net: NetName=5V Pin=JP1-6
+Removed Pin From Net: NetName=GND Pin=JP3-7
+Removed Pin From Net: NetName=5V Pin=JP4-2
+Removed Pin From Net: NetName=5V Pin=JP4-5
+Removed Pin From Net: NetName=GND Pin=JP4-6
+Removed Pin From Net: NetName=GND Pin=JP4-7
+Removed Pin From Net: NetName=GND Pin=JP7-3
+Removed Pin From Net: NetName=GND Pin=JP7-4
+Removed Pin From Net: NetName=5V Pin=JP8-3
+Removed Pin From Net: NetName=GND Pin=JP8-4
+Removed Pin From Net: NetName=5V Pin=JP9-3
+Removed Pin From Net: NetName=GND Pin=JP9-4
+Removed Pin From Net: NetName=GND Pin=L1-2
+Removed Pin From Net: NetName=GND Pin=L2-2
+Removed Pin From Net: NetName=5V Pin=L3-2
+Removed Pin From Net: NetName=5V Pin=L4-2
+Removed Pin From Net: NetName=5V Pin=Q1-2
+Removed Pin From Net: NetName=5V Pin=R1-2
+Removed Pin From Net: NetName=5V Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=5V Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-5
+Removed Pin From Net: NetName=5V Pin=U1-6
+Removed Pin From Net: NetName=5V Pin=U1-18
+Removed Pin From Net: NetName=GND Pin=U1-21
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=5V Pin=U2-16
+Removed Pin From Net: NetName=GND Pin=USB1-5
+Removed Pin From Net: NetName=GND Pin=USB1-5
+Removed Pin From Net: NetName=GND Pin=USB1-5
+Removed Member From Class: ClassName=Sche_CB Member=AMS1
+Removed Member From Class: ClassName=Sche_CB Member=AMS2
+Removed Member From Class: ClassName=Sche_CB Member=AMS3
+Removed Member From Class: ClassName=Sche_CB Member=AMS4
+Removed Member From Class: ClassName=Sche_CB Member=BT1
+Removed Member From Class: ClassName=Sche_CB Member=C7
+Removed Member From Class: ClassName=Sche_CB Member=C8
+Removed Member From Class: ClassName=Sche_CB Member=C9
+Removed Member From Class: ClassName=Sche_CB Member=C10
+Removed Member From Class: ClassName=Sche_CB Member=C11
+Removed Member From Class: ClassName=Sche_CB Member=C12
+Removed Member From Class: ClassName=Sche_CB Member=C13
+Removed Member From Class: ClassName=Sche_CB Member=C14
+Removed Member From Class: ClassName=Sche_CB Member=C15
+Removed Member From Class: ClassName=Sche_CB Member=C16
+Removed Member From Class: ClassName=Sche_CB Member=C17
+Removed Member From Class: ClassName=Sche_CB Member=C18
+Removed Member From Class: ClassName=Sche_CB Member=C19
+Removed Member From Class: ClassName=Sche_CB Member=C20
+Removed Member From Class: ClassName=Sche_CB Member=C21
+Removed Member From Class: ClassName=Sche_CB Member=D2
+Removed Member From Class: ClassName=Sche_CB Member=F1
+Removed Member From Class: ClassName=Sche_CB Member=JACK DC2
+Removed Member From Class: ClassName=Sche_CB Member=JP4
+Removed Member From Class: ClassName=Sche_CB Member=JP5
+Removed Member From Class: ClassName=Sche_CB Member=JP6
+Removed Member From Class: ClassName=Sche_CB Member=JP7
+Removed Member From Class: ClassName=Sche_CB Member=JP8
+Removed Member From Class: ClassName=Sche_CB Member=JP9
+Removed Member From Class: ClassName=Sche_CB Member=L7
+Removed Member From Class: ClassName=Sche_CB Member=L8
+Removed Member From Class: ClassName=Sche_CB Member=Q1
+Removed Member From Class: ClassName=Sche_CB Member=R7
+Removed Member From Class: ClassName=Sche_CB Member=R8
+Removed Member From Class: ClassName=Sche_CB Member=R9
+Removed Member From Class: ClassName=Sche_CB Member=R10
+Removed Member From Class: ClassName=Sche_CB Member=R11
+Removed Member From Class: ClassName=Sche_CB Member=U1
+Removed Member From Class: ClassName=Sche_CB Member=U2
+Removed Member From Class: ClassName=Sche_CB Member=USB1
+Removed Member From Class: ClassName=Sche_CB Member=Y1
+Removed Member From Class: ClassName=Sche_CB Member=Y2
+Change Component Footprint: Designator=D2 Old Footprint=DIODE SMA New Footprint=DIODE 1A
+Change Component Footprint: Designator=JP2 Old Footprint=JP 1x8 CT New Footprint=JP 1x20 CT
+Change Component Footprint: Designator=JP3 Old Footprint=JP 1x10 CT New Footprint=JP 1x3 CT
+Change Component Footprint: Designator=JP1 Old Footprint=JP 2x3 DT New Footprint=JP 1x20 CT
+Change Component Footprint: Designator=L5 Old Footprint=LED-0805-Red New Footprint=LED-3MM-RED
+Change Component Footprint: Designator=L2 Old Footprint=LED-0805-Red New Footprint=LED-5MM-RED
+Change Component Footprint: Designator=IC1 Old Footprint=SOP 8 New Footprint=QTO-220
+Change Component Footprint: Designator=R10 Old Footprint=tro smd 0805 New Footprint=tro vach 1/4w
+Change Component Footprint: Designator=C17 Old Footprint=tu 0805 New Footprint=tu gom
+Change Component Footprint: Designator=C19 Old Footprint=tu 0805 New Footprint=tu gom
+Change Component Footprint: Designator=C18 Old Footprint=tu 0805 New Footprint=tu hoa 4mm
+Change Component Footprint: Designator=C16 Old Footprint=tu nhom 6.3 (d) New Footprint=tu hoa 4mm
+Change Component Comment : Designator=C17 Old Comment=22pF New Comment=104
+Change Component Comment : Designator=C16 Old Comment=47uF New Comment=10uF
+Change Component Comment : Designator=C18 Old Comment=104 New Comment=10uF
+Change Component Comment : Designator=JP2 Old Comment=JP 1x8 2.54 New Comment=JP 1x20 2.54
+Change Component Comment : Designator=JP3 Old Comment=JP 1x10 2.54 New Comment=JP 1x3 2.54
+Change Component Comment : Designator=JP1 Old Comment=JP 2x3 2.54 New Comment=JP 1x20 2.54
+Change Component Comment : Designator=L5 Old Comment=LED 0805 New Comment=LED 3mm
+Change Component Comment : Designator=L2 Old Comment=LED 0805 New Comment=LED 5mm
+Change Component Comment : Designator=IC1 Old Comment=LM358 SOP8 New Comment=LM7805
+Change Component Comment : Designator=D2 Old Comment=M7 New Comment=100v
+Change Component Designator: OldDesignator=C16 NewDesignator=C1
+Change Component Designator: OldDesignator=C17 NewDesignator=C2
+Change Component Designator: OldDesignator=C18 NewDesignator=C3
+Change Component Designator: OldDesignator=C19 NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=JACK DC2 NewDesignator=JACK DC1
+Change Component Designator: OldDesignator=L5 NewDesignator=L1
+Change Component Designator: OldDesignator=L6 NewDesignator=L3
+Change Component Designator: OldDesignator=L7 NewDesignator=L4
+Change Component Designator: OldDesignator=L8 NewDesignator=L5
+Change Component Designator: OldDesignator=R10 NewDesignator=R1
+Change Component Designator: OldDesignator=R11 NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change component parameters: Designator = "C16" ("C1"); Footprint = "tu nhom 6.3 (d)"; UniqueID = "\MFSNFEYS" ("\MFSNFEYS")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH006855"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 10uF 16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C2"); Footprint = "tu 0805"; UniqueID = "\VRTAWHQJ" ("\VRTAWHQJ")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004761"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 104 100nF 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C3"); Footprint = "tu 0805"; UniqueID = "\TPDYVJZQ" ("\TPDYVJZQ")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH006855"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 10uF 16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C4"); Footprint = "tu 0805"; UniqueID = "\IRYLJHHK" ("\IRYLJHHK")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004761"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 104 100nF 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D1"); Footprint = "DIODE SMA"; UniqueID = "\RYXJMTML" ("\RYXJMTML")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001063"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode 1N4007 1A (DIP)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC1" ("IC1"); Footprint = "SOP 8"; UniqueID = "\CCTBDLQR" ("\CCTBDLQR")
+Change component parameters (AddParameter): Name = "Value"; Value = "LM7805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP1" ("JP1"); Footprint = "JP 2x3 DT"; UniqueID = "\WFIRNABP" ("\WFIRNABP")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2" ("L2"); Footprint = "LED-0805-Red"; UniqueID = "\JBJKNBCQ" ("\JBJKNBCQ")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L5" ("L1"); Footprint = "LED-0805-Red"; UniqueID = "\AQEWFXQI" ("\AQEWFXQI")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH003892"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 3MM Ph? Ð? (10c)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R1"); Footprint = "tro smd 0805"; UniqueID = "\IQHPEFYC" ("\IQHPEFYC")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH007390"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 1k"; VariantName = "[No Variations]"
+Added Component: Designator=L6(LED-5MM-RED)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=5V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=5V Pin=IC1-3
+Added Pin To Net: NetName=GND Pin=JP1-19
+Added Pin To Net: NetName=5V Pin=JP1-20
+Added Pin To Net: NetName=5V Pin=JP3-1
+Added Pin To Net: NetName=A5 Pin=JP3-2
+Added Pin To Net: NetName=GND Pin=JP3-3
+Added Pin To Net: NetName=GND Pin=L2-1
+Added Pin To Net: NetName=GND Pin=L6-1
+Added Pin To Net: NetName=GND Pin=STM1-39
+Added Pin To Net: NetName=GND Pin=STM1-40
+Change Net Name : Old Net Name=B10 New Net Name=MCU_TX
+Change Net Name : Old Net Name=B11 New Net Name=MCU_RX
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetL5_1 New Net Name=NetL1_1
+Change Net Name : Old Net Name=NetL6_1 New Net Name=NetL3_1
+Change Net Name : Old Net Name=NetL7_1 New Net Name=NetL4_1
+Change Net Name : Old Net Name=NetL8_1 New Net Name=NetL5_1
+Added Pin To Net: NetName=BT_RUN Pin=C6-1
+Added Pin To Net: NetName=BT_RUN Pin=L6-2
+Added Pin To Net: NetName=BT_RUN Pin=R6-1
+Added Pin To Net: NetName=BT_RUN Pin=STM1-25
+Added Net: Name=BT_RUN
+Added Pin To Net: NetName=BT_STOP Pin=C5-1
+Added Pin To Net: NetName=BT_STOP Pin=L2-2
+Added Pin To Net: NetName=BT_STOP Pin=R2-1
+Added Pin To Net: NetName=BT_STOP Pin=STM1-26
+Added Net: Name=BT_STOP
+Added Pin To Net: NetName=ESP_RX Pin=JP2-8
+Added Pin To Net: NetName=ESP_RX Pin=STM1-6
+Added Net: Name=ESP_RX
+Added Pin To Net: NetName=ESP_TX Pin=JP2-9
+Added Pin To Net: NetName=ESP_TX Pin=STM1-7
+Added Net: Name=ESP_TX
+Added Pin To Net: NetName=LED_1 Pin=R5-1
+Added Pin To Net: NetName=LED_1 Pin=STM1-27
+Added Net: Name=LED_1
+Added Pin To Net: NetName=LED_2 Pin=R4-1
+Added Pin To Net: NetName=LED_2 Pin=STM1-28
+Added Net: Name=LED_2
+Added Pin To Net: NetName=LED_3 Pin=R3-1
+Added Pin To Net: NetName=LED_3 Pin=STM1-29
+Added Net: Name=LED_3
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C4-1
+Added Pin To Net: NetName=NetC3_1 Pin=D1-2
+Added Pin To Net: NetName=NetC3_1 Pin=IC1-1
+Added Net: Name=NetC3_1

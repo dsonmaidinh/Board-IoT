@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=5V Pin=L2-1
+Removed Pin From Net: NetName=5V Pin=L3-1
+Removed Pin From Net: NetName=5V Pin=L4-1
+Removed Pin From Net: NetName=5V Pin=R2-2
+Removed Pin From Net: NetName=5V Pin=R6-2
+Change Component Designator: OldDesignator=C2 NewDesignator=C4
+Change Component Designator: OldDesignator=C3 NewDesignator=C7
+Change Component Designator: OldDesignator=C4 NewDesignator=C8
+Change Component Designator: OldDesignator=C5 NewDesignator=C9
+Change Component Designator: OldDesignator=C6 NewDesignator=C10
+Add Component: Footprint Not Found tu hoa 4mm
+Add Component: Footprint Not Found tu hoa 4mm
+Add Component: Footprint Not Found tu gom
+Add Component: Footprint Not Found tu gom
+Added Component: Designator=U1(TO254P1054X470X1955-3)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM1117T-ADJ/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM1117T-ADJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220-3 TEXAS INSTRUMENTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM1117T-ADJ/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=5V Pin=U1-3
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC7_1
+Added Pin To Net: NetName=3.3V Pin=L2-1
+Added Pin To Net: NetName=3.3V Pin=L3-1
+Added Pin To Net: NetName=3.3V Pin=L4-1
+Added Pin To Net: NetName=3.3V Pin=R2-2
+Added Pin To Net: NetName=3.3V Pin=R6-2
+Added Pin To Net: NetName=3.3V Pin=U1-2
+Added Net: Name=3.3V
+Added Member To Class: ClassName=Sche_CB Member=Component C7 10uF
+Added Member To Class: ClassName=Sche_CB Member=Component C8 104
+Added Member To Class: ClassName=Sche_CB Member=Component C9 104
+Added Member To Class: ClassName=Sche_CB Member=Component C10 104
+Added Member To Class: ClassName=Sche_CB Member=Component U1 LM1117T-ADJ
